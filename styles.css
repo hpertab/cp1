@@ -3,7 +3,7 @@
 }
 
 h1, h3, p {
-    color: #3b453e;
+    color: #652323;
 }
 
 h1 {
@@ -22,7 +22,7 @@ h3 {
 }
 
 body {
-    background-color: #d5eddc;
+    background-color: #d7d7d7;
     margin: auto;
 }
 
@@ -48,11 +48,11 @@ a:hover{
 .index-title {
     text-align: center;
     font-size: 75px;
-    font-family: "Brush Script MT";
+    font-family: "Times New Roman";
 }
 
 .navbar-brand {
-    font-family: "Brush Script MT";
+    font-family: "Times New Roman";
     text-align: left;
 }
 
@@ -71,7 +71,7 @@ img {
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
   body {
-    background-color: #F09A9D; /* Red */
+    background-color: #652323; /* Red */
   }
   
 }
